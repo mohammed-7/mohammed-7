@@ -1,4 +1,4 @@
-![logo](https://github.com/mohammed-7/mohammed-7/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
+![logo](https://github.com/mohammed-7/mohammed-7/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
