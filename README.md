@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML|CSS|Python|Javascript**
 
-- 📫 How to reach me **khuzaif254@gmail.com**
+- 📫 How to reach me **khan******@gmail.com**
 
 - ⚡ Fun fact **India is a nation of over one billion tea drinkers – 70% of the tea produced in the country is consumed within the country itself!**
 
