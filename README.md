@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-7&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-7" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Python Backend**
 
 - 🌱 I’m currently learning **BlockChain|Solidity|Fullstack dev|Django**
 
