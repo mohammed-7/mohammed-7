@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khaleel Khan</h1>
 <h3 align="center">Python Backend Engineer | AI & RAG Systems Developer | Skilled in Scalable System Design & High-Performance Architecture Building</h3>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-7&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-7" alt="mohammed-7" /></a> </p>
 
 - 🔭 I’m currently working on **RAG Chatbots | Blockchain**
 
@@ -14,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Blockchain | Decentralization**
 
-- 👨‍💻 All of my projects are available at [www.mohammedkhaleelkhan.com](www.mohammedkhaleelkhan.com)
+- 👨‍💻 All of my projects are available at https://github.com/mohammed-7
 
 - 💬 Ask me about **System Designing | RAG bots architecture | Blockchain**
 
